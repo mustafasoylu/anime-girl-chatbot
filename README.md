@@ -3,7 +3,7 @@
 In this repo, we will create an anime girl imitator chatbot using ChatGPT and Python.
 
 
-## インストール
+## Installation
 
 First, create an OpenAI API key from the [OpenAI website](https://openai.com/blog/openai-api). If you haven't installed poetry yet, please install it.
 
