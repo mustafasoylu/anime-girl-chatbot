@@ -30,7 +30,7 @@ If you want external people to access the chatbot, you can set the share key to 
 
 ### Running on a Local Computer
 
-When running on a local computer, create a .config.yaml file in the project root directory and fill it out as follows:
+When running on a local computer, create a .config.toml file in the project root directory and fill it out as follows:
 
 ```toml
 [project]
